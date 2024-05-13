@@ -28,3 +28,5 @@ New stroke
 2. Numbered list 1
 3. Numbered list 1
 
+## WEB links in Markdown language
+text [example link](example.com "tooltip")
