@@ -3,7 +3,7 @@
 Команда смены директории
 
 ```sh
-cd "путь к папке"
+cd "path to folder"
 ```
 
 Команда отображения текущей директории для MacOS, Linux
@@ -19,4 +19,11 @@ MacOs, Linux:
  ls
 ```
 
-
+Команда удаления файла в Windows:
+```sh
+del "filename"
+```
+Команда удаления файла в MacOS, Linux:
+```sh
+rm "filename"
+```
