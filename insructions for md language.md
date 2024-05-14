@@ -30,3 +30,5 @@ New stroke
 
 ## WEB links in Markdown language
 text [example link](example.com "tooltip")
+
+## How to adding the pictures in Markdown language
