@@ -67,4 +67,3 @@ git checkout <branch_name>
 ```sh
 git branch <branch_name>
 ```
-
