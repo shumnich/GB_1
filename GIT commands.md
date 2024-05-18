@@ -60,11 +60,11 @@ git branch
 
 * *Switching between branches*
 ```sh
-git checkout <branch name>
+git checkout <имя_ветки>
 ```
 
 * *Create new branch*
 ```sh
-git branch <branch name>
+git branch <имя_ветки>
 ```
 
