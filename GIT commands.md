@@ -63,3 +63,8 @@ git branch
 git checkout <branch name>
 ```
 
+* *Create new branch*
+```sh
+git branch <branch name>
+```
+
