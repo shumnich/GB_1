@@ -58,3 +58,8 @@ git diff
 git branch
 ```
 
+* *Switching between branches*
+```sh
+git checkout <branch name>
+```
+
