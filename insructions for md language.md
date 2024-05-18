@@ -32,3 +32,5 @@ New stroke
 text [example link](example.com "tooltip")
 
 ## How to adding the pictures in Markdown language
+This is a cat
+![cat](cat.jpg)
