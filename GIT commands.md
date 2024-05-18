@@ -53,5 +53,8 @@ git checkout master
 git diff
 ```
 
-## New section
+* *Show all branches*
+```sh
+git branch
+```
 
