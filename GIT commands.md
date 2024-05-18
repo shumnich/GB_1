@@ -25,7 +25,7 @@ git add <filename>
 * *Making changes and fixing them in the current file*
 
 ```sh
-git commit -m "comment"
+git commit -m "comment text"
 ```
 
 * *Checking the repository status*
