@@ -72,3 +72,9 @@ git branch <branch_name>
 ```sh
 git branch -d <branch_name>
 ```
+
+* *Show additional graphical view in log with oneline*
+```sh
+git log --oneline --graph
+```
+
